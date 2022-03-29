@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeanoza
+- 👋 Hi, I’m Kyubong Choi
 - 👀 I’m interested in Web programing(Frontend & Fullstack)
 - 🌱 I’m currently learning Javascript and its framework like React, Node, Typescript.
 - 📫 How to reach me : kychoi@student.42.fr
