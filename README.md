@@ -12,11 +12,7 @@ Portfolio : https://jeanoza.github.io/portfolio/#/
 
 #### Curent cursus
 
-[![kychoi's 42 stats](https://badge42.vercel.app/api/v2/cl3h7pd9i007309lcn3cxrbo9/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)\
-
-#### Piscine stats
-
-[![kychoi's 42 stats](https://badge42.vercel.app/api/v2/cl3h7pd9i007309lcn3cxrbo9/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![kychoi's 42 stats](https://badge42.vercel.app/api/v2/cl3h7pd9i007309lcn3cxrbo9/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 #### Github stats
 
