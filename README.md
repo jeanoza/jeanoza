@@ -4,7 +4,7 @@
 
 👀 I’m developer Web Fullstack at Estech-design.
 
-🌱 I'm studying C, C++ and linux shell at 42 Paris.
+🌱 I'm studying C, C++ and linux shell at 42 Paris since 26 Nov. 2021
 
 Portfolio : https://jeanoza.github.io/portfolio/#/
 
