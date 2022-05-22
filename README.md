@@ -1,13 +1,9 @@
 # JEANOZA ?
 
-- 👋 Hi, I’m Kyubong Choi
-- 👀 I’m developer Web Fullstack at Estech-design.
-- 💻 I'm able to use Javascript and its framework like React, Node, Typescript.
-- 🌱 I'm studying C, C++ and linux shell at 42 Paris.
-- Portfolio : https://jeanoza.github.io/portfolio/#/
-- 📫 How to reach me : kychoi@student.42.fr
-
-## Top languages
+👋 Hi, I’m Kyubong Choi
+👀 I’m developer Web Fullstack at Estech-design.
+🌱 I'm studying C, C++ and linux shell at 42 Paris.
+Portfolio : https://jeanoza.github.io/portfolio/#/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoza&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
