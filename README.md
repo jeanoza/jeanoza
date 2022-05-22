@@ -1,8 +1,11 @@
 # JEANOZA ?
 
-👋 Hi, I’m Kyubong Choi
+👋 Hi, I’m Kyubong Choi.
+
 👀 I’m developer Web Fullstack at Estech-design.
+
 🌱 I'm studying C, C++ and linux shell at 42 Paris.
+
 Portfolio : https://jeanoza.github.io/portfolio/#/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoza&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
