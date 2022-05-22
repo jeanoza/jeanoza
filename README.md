@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanoza)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Kyubong Choi
 - 👀 I’m developer Web Fullstack at Estech-design.
 - 💻 I'm able to use Javascript and its framework like React, Node, Typescript.
