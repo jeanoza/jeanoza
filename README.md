@@ -2,9 +2,7 @@
 
 👋 Hi, I’m Kyubong Choi.
 
-👀 I’m developer Web Fullstack at Estech-design.
-
-🌱 I'm studying C, C++ and linux shell at 42 Paris since Nov. 2021.
+🌱 I'm studying C, C++, Unix systeme, Docker, Javascript and its frameworks(React, Next, Nest, Socket IO) at 42 Paris since Nov. 2021.
 
 Portfolio : https://jeanoza.github.io/portfolio/#/
 
