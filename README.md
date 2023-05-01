@@ -4,7 +4,7 @@
 
 🌱 I'm studying C, C++, Unix systeme, Docker, Javascript and its frameworks(React, Next, Nest, Socket IO) at 42 Paris since Nov. 2021.
 
-Anticipating that my studies will soon come to an end, I am planning to apply for my next job.
+After completing my common curriculum at 42 Paris, I am currently looking for a job in web development (Backend, Frontend, or Fullstack) starting now.
 
 You can see my [portfolio](https://portfolio2023-jeanoza.vercel.app/)
 
